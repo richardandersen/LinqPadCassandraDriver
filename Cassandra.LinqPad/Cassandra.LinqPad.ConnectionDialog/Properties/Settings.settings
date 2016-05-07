@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Cassandra.LinqPad.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ErrorURIIcon16" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pack://siteoforigin:,,,/Resources/Error16.png</Value>
+    </Setting>
+    <Setting Name="InfoURIIcon16" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pack://siteoforigin:,,,/Resources/Information16.png</Value>
+    </Setting>
+    <Setting Name="HostNodeInfoToolTip" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Press the Add button to add this node to the connection list.</Value>
+    </Setting>
+    <Setting Name="OKURI16" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pack://siteoforigin:,,,/Resources/OK16.png</Value>
+    </Setting>
+    <Setting Name="AlertURI16" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pack://siteoforigin:,,,/Resources/Alerts16.png</Value>
+    </Setting>
+    <Setting Name="NetworkURI16" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pack://siteoforigin:,,,/Resources/Network16.png</Value>
+    </Setting>
+    <Setting Name="UPURI16" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pack://siteoforigin:,,,/Resources/Move Up (Arrow) Green16.png</Value>
+    </Setting>
+    <Setting Name="DownURI16" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pack://siteoforigin:,,,/Resources/Move Down (Arrow) Red16.png</Value>
+    </Setting>
+    <Setting Name="PlugInURI16" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pack://siteoforigin:,,,/Resources/Plugin16.png</Value>
+    </Setting>
+    <Setting Name="NextConnectionToolTip" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Click Next to Select Keyspace and Table</Value>
+    </Setting>
+    <Setting Name="CQLPort" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">9042</Value>
+    </Setting>
+    <Setting Name="QeuryURI16" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pack://siteoforigin:,,,/Resources/Query16.png</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
